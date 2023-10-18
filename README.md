@@ -3,4 +3,4 @@
 Result 
 
 
-![GitHub Logo](/blob/main/Result.png)
+![GitHub Logo](https://github.com/nguvuong/hands-on-PostgreSQL/blob/main/Result.png)
