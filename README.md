@@ -3,4 +3,4 @@
 Result 
 
 
-<img src="/blob/main/Result.png" alt="GitHub Logo">
+![GitHub Logo](/blob/main/Result.png)
